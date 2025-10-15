@@ -1,0 +1,8 @@
+C:/Users/dax_7/Desktop/projects/letslearnalgo/build/CMakeFiles/linked_list.dir
+C:/Users/dax_7/Desktop/projects/letslearnalgo/build/CMakeFiles/linked_list_tests.dir
+C:/Users/dax_7/Desktop/projects/letslearnalgo/build/CMakeFiles/stack.dir
+C:/Users/dax_7/Desktop/projects/letslearnalgo/build/CMakeFiles/stack_tests.dir
+C:/Users/dax_7/Desktop/projects/letslearnalgo/build/CMakeFiles/queue.dir
+C:/Users/dax_7/Desktop/projects/letslearnalgo/build/CMakeFiles/queue_tests.dir
+C:/Users/dax_7/Desktop/projects/letslearnalgo/build/CMakeFiles/edit_cache.dir
+C:/Users/dax_7/Desktop/projects/letslearnalgo/build/CMakeFiles/rebuild_cache.dir

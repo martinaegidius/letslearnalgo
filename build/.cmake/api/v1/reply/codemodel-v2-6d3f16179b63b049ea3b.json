@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LETSLEARNALGO",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "linked_list::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linked_list-Debug-01915a6e639c9d449932.json",
+					"name" : "linked_list",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "linked_list_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-linked_list_tests-Debug-dad5588206c633a5fc04.json",
+					"name" : "linked_list_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "queue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-queue-Debug-c98b53e7148f24342cce.json",
+					"name" : "queue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "queue_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-queue_tests-Debug-62e37b1e52505cfd7dad.json",
+					"name" : "queue_tests",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stack-Debug-a341715080ac1890ee08.json",
+					"name" : "stack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stack_tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stack_tests-Debug-34eeced712aaca6d0857.json",
+					"name" : "stack_tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/dax_7/Desktop/projects/letslearnalgo/build",
+		"source" : "C:/Users/dax_7/Desktop/projects/letslearnalgo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

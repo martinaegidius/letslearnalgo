@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/dax_7/Desktop/projects/letslearnalgo/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/linked_list.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\linked_list.dir\\src\\lists\\singly_linked_list.cpp.obj -c C:\\Users\\dax_7\\Desktop\\projects\\letslearnalgo\\src\\lists\\singly_linked_list.cpp",
+  "file": "C:/Users/dax_7/Desktop/projects/letslearnalgo/src/lists/singly_linked_list.cpp",
+  "output": "CMakeFiles/linked_list.dir/src/lists/singly_linked_list.cpp.obj"
+},
+{
+  "directory": "C:/Users/dax_7/Desktop/projects/letslearnalgo/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/linked_list_tests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\linked_list_tests.dir\\tests\\linked_lists.cpp.obj -c C:\\Users\\dax_7\\Desktop\\projects\\letslearnalgo\\tests\\linked_lists.cpp",
+  "file": "C:/Users/dax_7/Desktop/projects/letslearnalgo/tests/linked_lists.cpp",
+  "output": "CMakeFiles/linked_list_tests.dir/tests/linked_lists.cpp.obj"
+},
+{
+  "directory": "C:/Users/dax_7/Desktop/projects/letslearnalgo/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/stack.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\stack.dir\\src\\lists\\stack.cpp.obj -c C:\\Users\\dax_7\\Desktop\\projects\\letslearnalgo\\src\\lists\\stack.cpp",
+  "file": "C:/Users/dax_7/Desktop/projects/letslearnalgo/src/lists/stack.cpp",
+  "output": "CMakeFiles/stack.dir/src/lists/stack.cpp.obj"
+},
+{
+  "directory": "C:/Users/dax_7/Desktop/projects/letslearnalgo/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/stack_tests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\stack_tests.dir\\tests\\stack.cpp.obj -c C:\\Users\\dax_7\\Desktop\\projects\\letslearnalgo\\tests\\stack.cpp",
+  "file": "C:/Users/dax_7/Desktop/projects/letslearnalgo/tests/stack.cpp",
+  "output": "CMakeFiles/stack_tests.dir/tests/stack.cpp.obj"
+},
+{
+  "directory": "C:/Users/dax_7/Desktop/projects/letslearnalgo/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/queue.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\queue.dir\\src\\lists\\queue.cpp.obj -c C:\\Users\\dax_7\\Desktop\\projects\\letslearnalgo\\src\\lists\\queue.cpp",
+  "file": "C:/Users/dax_7/Desktop/projects/letslearnalgo/src/lists/queue.cpp",
+  "output": "CMakeFiles/queue.dir/src/lists/queue.cpp.obj"
+},
+{
+  "directory": "C:/Users/dax_7/Desktop/projects/letslearnalgo/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe  @CMakeFiles/queue_tests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\queue_tests.dir\\tests\\queue.cpp.obj -c C:\\Users\\dax_7\\Desktop\\projects\\letslearnalgo\\tests\\queue.cpp",
+  "file": "C:/Users/dax_7/Desktop/projects/letslearnalgo/tests/queue.cpp",
+  "output": "CMakeFiles/queue_tests.dir/tests/queue.cpp.obj"
+}
+]
